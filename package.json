@@ -13,6 +13,7 @@
   "dependencies": {
     "hex-grid": "^2.0.2",
     "jsonlint": "^1.6.2",
+    "package": "^1.0.1",
     "package-lock.json": "^1.0.0",
     "requirements": "^1.3.1"
   },
